@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="idioma_lbl">Idioma:</string>
+    <string name="hint_nombre">Escriba aquí su nombre</string>
+    <string name="hint_apellidos">Escriba aquí sus apellidos</string>
+    <string name="hint_edad">Ingrese su edad</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="tiene_hijos">¿Tiene hijos?</string>
+    <string name="mostrar_datos">Mostrar Datos</string>
+    <string name="reiniciar">Reiniciar</string>
+
+    <string-array name="idiomas">
+        <item>Español</item>
+        <item>English</item>
+        <item>Français</item>
+    </string-array>
+
+    <string-array name="estado_es">
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viud@</item>
+        <item>Otr@</item>
+    </string-array>
+
+    <string-array name="estado_en">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Separated</item>
+        <item>Widowed</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="estado_fr">
+        <item>Célibataire</item>
+        <item>Marié(e)</item>
+        <item>Séparé(e)</item>
+        <item>Veuf/Veuve</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string name="hint_nombre_es">Escriba aquí su nombre</string>
+    <string name="hint_apellidos_es">Escriba aquí sus apellidos</string>
+    <string name="hint_edad_es">Ingrese su edad</string>
+    <string name="txt_hijos_es">¿Tiene hijos?</string>
+    <string name="btn_mostrar_es">Mostrar datos</string>
+    <string name="btn_reiniciar_es">Reiniciar</string>
+    <string name="txt_hombre_es">Hombre</string>
+    <string name="txt_mujer_es">Mujer</string>
+
+    <string name="hint_nombre_en">Enter your first name</string>
+    <string name="hint_apellidos_en">Enter your last name</string>
+    <string name="hint_edad_en">Enter your age</string>
+    <string name="txt_hijos_en">Do you have children?</string>
+    <string name="btn_mostrar_en">Show data</string>
+    <string name="btn_reiniciar_en">Reset</string>
+    <string name="txt_hombre_en">Man</string>
+    <string name="txt_mujer_en">Woman</string>
+
+    <string name="hint_nombre_fr">Entrez votre prénom</string>
+    <string name="hint_apellidos_fr">Entrez votre nom</string>
+    <string name="hint_edad_fr">Entrez votre âge</string>
+    <string name="txt_hijos_fr">Avez-vous des enfants ?</string>
+    <string name="btn_mostrar_fr">Afficher les données</string>
+    <string name="btn_reiniciar_fr">Réinitialiser</string>
+    <string name="txt_hombre_fr">Homme</string>
+    <string name="txt_mujer_fr">Femme</string>
+</resources>
